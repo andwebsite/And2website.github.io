@@ -34,7 +34,7 @@ manteniendo su optimismo.
 - Bueno, es una pregunta sencilla, tanto como decir que un conejo es más rápido
 que una tortuga, sin embargo, en una carrera puede que quien gane sea la tortuga
 todo depende de la perspectiva y decisiones que se tomen -Le respondía el señor
-lágrimas al acercarse un poco más a este sujeto que tanto brillaba.
+tristeza al acercarse un poco más a este sujeto que tanto brillaba.
 - No entiendo señor ¿Cómo ganaría una tortuga frente a un conejo? -Preguntaba
 de forma más interesada el sujeto luminoso.
 - Quizá por que la tortuga no se rindió aún sabiendo sus desventajas
