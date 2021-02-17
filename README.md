@@ -1,11 +1,8 @@
-# And2website.github.io
-TT
-Hola mucho gusto, bienvenido a la página github de prueba exclusivamente para personas com tú.
-Personas que estan interesadas en concer historias nuevas, tienen la capacidad de comprender,
-procesar y desarrollar de manera correcta una historia como esta, así que vamos a empezar 
-con una hostoria:
+# 
+Hola mucho gusto, bienvenido a la página github de prueba.
 
-                    LA VERDEADERA TRISTESA
+
+                                                                LA VERDEADERA TRISTESA
 
 Once upon a time, en las tierras de sufrimiento, al lado del pozo de los lamentos
 nombrado así por las personas del pueblo lágrimas, ambos lugares fríos,
